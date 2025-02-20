@@ -46,10 +46,8 @@ Atualizar a Imagem de um Produto (POST):
 
 API: https://www.advantageonlineshopping.com/catalog/api/v1/product/image/{userId}/{source}/{color}
 Descrição: Criar um cenário que atualize a imagem de um produto verificando se foi gerado um id para a nova imagem.
-Observação: Será necessário fazer a autenticação de um usuário com accountType: ADMIN antes de atualizar a imagem de um produto. Caso não tenha um usuário, crie um. Todas as APIs necessárias estão na documentação.
-Contribuição
 
-Sinta-se à vontade para contribuir com este projeto. Para isso, siga os passos abaixo:
+## Sinta-se à vontade para contribuir com este projeto. Para isso, siga os passos abaixo:
 
 Faça um fork do projeto.
 Crie uma branch para sua feature (git checkout -b feature/nova-feature).
